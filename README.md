@@ -1,17 +1,18 @@
 # Ohjelmistuotanto-kurssin harjoitustehtävät
 
-Tästä repositoriosta löytyy aineopintojen kurssiin Ohjelmistotuotanto 6op liittyvät harjoitustehtävät.
+Tästä repositoriosta löytyy kurssiin ohjelmistotuotannon kurssiin liittyvät harjoitustehtävät.  
 
 ## Viikko 1: 
 CircleCI (ohjelman kääntäminen ja testien suoritus build-palvelimella)
 
 Codecov (testauskattavuuden julkaiseminen) 
 
-[linkki tehtäviin](https://github.com/tsalohei/ohtu-2020-viikko1)
+riippuvuuksien injektointi, yksikkötestaus
+
+[linkki CircleCI- ja Codecov -tehtäviin](https://github.com/tsalohei/ohtu-2020-viikko1), [linkki muihin tehtäviin](https://github.com/tsalohei/ohtu-tehtavat/tree/master/viikko1)
 
 riippuvuuksien injektointi, yksikkötestaus 
-
-[linkki tehtäviin](https://github.com/tsalohei/ohtu-tehtavat/tree/master/viikko1) 
+ 
 
 ## Viikko 2: 
 gradle
