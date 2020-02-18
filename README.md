@@ -1,6 +1,6 @@
 # Ohjelmistuotanto-kurssin harjoitustehtävät
 
-Tästä repositoriosta löytyy kurssiin ohjelmistotuotannon kurssiin liittyvät harjoitustehtävät.  
+Tästä repositoriosta löytyy [ohjelmistotuotannon](https://ohjelmistotuotanto-hy-avoin.github.io/) kurssiin liittyvät ohjelmointi-, versionhallinta- ja konfigurointitehtävät.  
 
 ## Viikko 1: 
 CircleCI (ohjelman kääntäminen ja testien suoritus build-palvelimella)
