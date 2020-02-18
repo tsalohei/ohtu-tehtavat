@@ -9,9 +9,7 @@ Codecov (testauskattavuuden julkaiseminen)
 
 riippuvuuksien injektointi, yksikkötestaus
 
-[linkki CircleCI- ja Codecov -tehtäviin](https://github.com/tsalohei/ohtu-2020-viikko1), [linkki muihin tehtäviin](https://github.com/tsalohei/ohtu-tehtavat/tree/master/viikko1)
-
-riippuvuuksien injektointi, yksikkötestaus 
+[linkki CircleCI- ja Codecov -tehtäviin](https://github.com/tsalohei/ohtu-2020-viikko1), [linkki muihin tehtäviin](https://github.com/tsalohei/ohtu-tehtavat/tree/master/viikko1) 
  
 
 ## Viikko 2: 
