@@ -3,44 +3,51 @@
 Tästä repositoriosta löytyy [ohjelmistotuotannon](https://ohjelmistotuotanto-hy-avoin.github.io/) kurssiin liittyvät ohjelmointi-, versionhallinta- ja konfigurointitehtävät.  
 
 ## Viikko 1: 
-CircleCI (ohjelman kääntäminen ja testien suoritus build-palvelimella)
+* CircleCI (ohjelman kääntäminen ja testien suoritus build-palvelimella)
 
-Codecov (testauskattavuuden julkaiseminen) 
+* Codecov (testauskattavuuden julkaiseminen) 
 
-riippuvuuksien injektointi, yksikkötestaus
+* riippuvuuksien injektointi, yksikkötestaus
 
 [linkki CircleCI- ja Codecov -tehtäviin](https://github.com/tsalohei/ohtu-2020-viikko1), [linkki muihin tehtäviin](https://github.com/tsalohei/ohtu-tehtavat/tree/master/viikko1) 
  
 
 ## Viikko 2: 
-gradle
+* gradle
 
-checkstyle
+* checkstyle
 
-git (branchit, staging-alue, konfliktit, remote branches ym.)
+* git: branchit, staging-alue, konfliktit, remote branches ym.
 
-riippuvuuksien injektointi Spring-sovelluskehyksellä
+* riippuvuuksien injektointi Spring-sovelluskehyksellä
 
 [linkki tehtäviin](https://github.com/tsalohei/ohtu-tehtavat/tree/master/viikko2)
 
 ## Viikko 3: 
-ulkoiset kirjastot gradle-projektin riippuvuutena
+* ulkoiset kirjastot gradle-projektin riippuvuutena
 
-jar-paketin generoiminen
+* jar-paketin generoiminen
 
-user storyjen hyväksymistestaus (Cucumber)
+* user storyjen hyväksymistestaus (Cucumber)
 
-selainsovellusten testaus (Selenium)
+* selainsovellusten testaus (Selenium)
 
 [linkki tehtäviin](https://github.com/tsalohei/ohtu-tehtavat/tree/master/viikko3)
 
 ## Viikko 4:
-mockito-kirjasto yksikkötestauksessa
+* mockito-kirjasto yksikkötestauksessa
 
-refaktorointi
+* refaktorointi
 
 [linkki tehtäviin](https://github.com/tsalohei/ohtu-tehtavat/tree/master/viikko4)
 
 ## Viikko 5
+* git: tagit
+
+* refaktorointi ja command-suunnittelumalli
+
+* retrospektiivitekniikat
+
+[linkki tehtäviin](https://github.com/tsalohei/ohtu-tehtavat/tree/master/viikko5)
 
 ## Viikko 6
