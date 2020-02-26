@@ -51,3 +51,9 @@ Tästä repositoriosta löytyy [ohjelmistotuotannon](https://ohjelmistotuotanto-
 [linkki tehtäviin](https://github.com/tsalohei/ohtu-tehtavat/tree/master/viikko5)
 
 ## Viikko 6
+
+* Matcher, rakentaja-suunnittelumalli
+
+[linkki tehtäviin](https://github.com/tsalohei/ohtu-tehtavat/tree/master/viikko6)
+
+## Viikko 7
